@@ -1298,11 +1298,6 @@
           <attvalue for="0" value="30452" />
         </attvalues>
       </node>
-      <node id="Dr._Hook_&amp;_the_Medicine_Show" label="Dr._Hook_&amp;_the_Medicine_Show">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </node>
       <node id="Manfred_Mann's_Earth_Band" label="Manfred_Mann's_Earth_Band">
         <attvalues>
           <attvalue for="0" value="6672" />
@@ -2008,11 +2003,6 @@
           <attvalue for="0" value="1813" />
         </attvalues>
       </node>
-      <node id="Van_Zant_(band)" label="Van_Zant_(band)">
-        <attvalues>
-          <attvalue for="0" value="10" />
-        </attvalues>
-      </node>
       <node id="The_Big_Bopper" label="The_Big_Bopper">
         <attvalues>
           <attvalue for="0" value="4832" />
@@ -2353,11 +2343,6 @@
           <attvalue for="0" value="5413" />
         </attvalues>
       </node>
-      <node id="Jet_(Australian_band)" label="Jet_(Australian_band)">
-        <attvalues>
-          <attvalue for="0" value="13" />
-        </attvalues>
-      </node>
       <node id="England_Dan_&amp;_John_Ford_Coley" label="England_Dan_&amp;_John_Ford_Coley">
         <attvalues>
           <attvalue for="0" value="2327" />
@@ -2436,11 +2421,6 @@
       <node id="Ben_Folds_Five" label="Ben_Folds_Five">
         <attvalues>
           <attvalue for="0" value="3799" />
-        </attvalues>
-      </node>
-      <node id="The_B-52's" label="The_B-52's">
-        <attvalues>
-          <attvalue for="0" value="13" />
         </attvalues>
       </node>
       <node id="Chris_de_Burgh" label="Chris_de_Burgh">
